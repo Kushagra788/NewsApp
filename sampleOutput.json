@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Camilla, William and Kate receive royal honours",
+        "description": "The King awards historic honours to senior royals, in a year that has seen pressures of ill health.",
+        "url": "https://www.bbc.co.uk/news/uk-68882308",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17E45/production/_133216879_gettyimages-1833488726.jpg",
+        "publishedAt": "2024-04-23T20:37:17.7119756Z",
+        "content": "Queen Camilla and the Prince and Princess of Wales have all received historic royal honours, Buckingham Palace has announced.\r\nPrince William becomes Great Master of the Order of the Bath.\r\nCatherine… [+2485 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine war: Kyiv tightens pressure on fighting age men abroad",
+        "description": "Ukraine suspends consular services for men aged 18 to 60 as it aims to boost numbers in the military.",
+        "url": "https://www.bbc.co.uk/news/world-europe-68880085",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3DE1/production/_133214851_gettyimages-2144468348.jpg",
+        "publishedAt": "2024-04-23T20:37:15.6812317Z",
+        "content": "Ukraine is suspending consular services for male citizens aged 18 to 60 abroad as part of a drive to beef up numbers joining the military.\r\nForeign Minister Dmytro Kuleba said protecting the rights o… [+3254 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "UN rights chief 'horrified' by mass grave reports at Gaza hospitals",
+        "description": "Palestinian officials say more than 300 bodies have been found at Nasser and al-Shifa hospitals.",
+        "url": "https://www.bbc.co.uk/news/world-middle-east-68881325",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D07/production/_133217886_mediaitem133217885.jpg",
+        "publishedAt": "2024-04-23T19:37:19.9346534Z",
+        "content": "The UN's human rights chief has said he is \"horrified\" by the destruction of Gaza's Nasser and al-Shifa hospitals and the reports of \"mass graves\" being found at the sites after Israeli raids.\r\nVolke… [+7660 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Columbia University extends remote learning amid Gaza war protests",
+        "description": "The hybrid learning comes amid reports of antisemitic harassment around Columbia University.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-68883271",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58D5/production/_133214722_84b134acf0ace17ee408d1376b8c51b49688aca9.jpg",
+        "publishedAt": "2024-04-23T19:22:19.5559201Z",
+        "content": "Media caption, Watch: Arrests and anger at US university pro-Palestine demos\r\nColumbia University has extended remote classes at its main New York City campus for the rest of term amid tense Gaza war… [+4556 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Larry Nassar: US justice department to pay abuse survivors $138m",
+        "description": "The FBI's watchdog found it made errors when told of sexual abuse by US gymnastics team doctor Larry Nassar.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-68841682",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/930F/production/_133174673_gettyimages-877529378.jpg",
+        "publishedAt": "2024-04-23T18:22:18.1189224Z",
+        "content": "The US justice department will pay $138.7m (£110m) to survivors of disgraced national gymnastics team doctor Larry Nassar.\r\nIn a 2022 lawsuit, some of Nassar's victims alleged that the FBI mishandled… [+2680 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Baltimore sues owner and manager of 'unseaworthy' Dali over bridge collapse",
+        "description": "The city lawsuit says the vessel had \"an inconsistent power supply\" before it slammed into the span last month.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-68883659",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/52B3/production/_133217112_gettyimages-2115132792.jpg",
+        "publishedAt": "2024-04-23T16:07:21.8689304Z",
+        "content": "Baltimore has sued the operators of the container ship that hit and destroyed one of the US city's main bridges last month, killing six people.\r\nThe city says the Dali was \"clearly unseaworthy\" and a… [+3031 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "David Harewood says actors should be allowed to use blackface",
+        "description": "The Homeland star says any actor should be able to play any character, in an interview with the Guardian.",
+        "url": "https://www.bbc.co.uk/news/articles/cprgnnv8exqo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b1f/live/aa2579e0-0157-11ef-97f7-e98b193ef1b8.jpg",
+        "publishedAt": "2024-04-23T15:22:19.9856239Z",
+        "content": "Actor David Harewood has said actors \"should be able to do anything\" - including use blackface to portray black characters.\r\nThe 58-year-old made the comments following recent debate in the film and … [+2682 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Tabloid publisher to testify in Trump criminal trial",
+        "description": "Prosecutors say David Pecker used a strategy at the National Enquirer to bury negative stories about Mr Trump.",
+        "url": "https://www.bbc.co.uk/news/world-us-canada-68880206",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C25/production/_133214727_7ac832bcb78c55d8fce94df317398d33777cb68d.jpg",
+        "publishedAt": "2024-04-23T12:22:19.9932887Z",
+        "content": "Media caption, Watch: Is Trump part of a 'conspiracy' or 'cloaked in innocence'?\r\nA former tabloid newspaper publisher is set to resume his testimony in the historic criminal trial of Donald Trump in… [+2937 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "New Prince Louis birthday photo taken by Kate",
+        "description": "A new photograph has been released to mark the sixth birthday of Prince Louis.",
+        "url": "https://www.bbc.co.uk/news/uk-68882299",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B839/production/_133216174_0163337a49b9e47225fc0690ccead03851bc7e8a.jpg",
+        "publishedAt": "2024-04-23T11:52:20.7754258Z",
+        "content": "A new photograph of Prince Louis taken by his mother has been released to mark his sixth birthday.\r\nCatherine, the Princess of Wales, is receiving treatment after a cancer diagnosis.\r\nAfter the contr… [+1243 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Voyager-1 sends readable data again from deep space",
+        "description": "Nasa says its most distant probe is once again sending usable information back to Earth.",
+        "url": "https://www.bbc.co.uk/news/science-environment-68881369",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C5DB/production/_133215605_pia17462orig.jpg",
+        "publishedAt": "2024-04-23T11:07:14.7745186Z",
+        "content": "The US space agency says its Voyager-1 probe is once again sending usable information back to Earth after months of spouting gibberish.  \r\nThe 46-year-old Nasa spacecraft is humanity's most distant o… [+2411 chars]"
+      }
+    ]
+  }
